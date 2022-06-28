@@ -10,3 +10,4 @@ Shell  Variables and Expansions
 8-true_knowledge - This script prints the results of the sum of the trueknowldge variable and 128
 9-divide_and_rule - This script prints the results of POWER divided by DIVIDE
 10-love_exponent_breath - THis script prints the product of bret to the exponent of love
+11-binary_to_decimal - THis script converts binary to decimal 
