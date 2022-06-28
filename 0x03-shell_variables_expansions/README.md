@@ -13,3 +13,4 @@ Shell  Variables and Expansions
 11-binary_to_decimal - THis script converts binary to decimal 
 12-combinations -  This script prints a combination os letters 
 13-print_float - Prints a float with two decimal places
+100-decimal_to_hexadecimal -  This script prints decimal to hexadecimal 
