@@ -11,3 +11,4 @@ Shell  Variables and Expansions
 9-divide_and_rule - This script prints the results of POWER divided by DIVIDE
 10-love_exponent_breath - THis script prints the product of bret to the exponent of love
 11-binary_to_decimal - THis script converts binary to decimal 
+12-combinations -  This script prints a combination os letters 
