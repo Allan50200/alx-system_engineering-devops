@@ -15,3 +15,4 @@ Shell  Variables and Expansions
 13-print_float - Prints a float with two decimal places
 100-decimal_to_hexadecimal -  This script prints decimal to hexadecimal 
 101-rot13 - Encryption and decryption using rot13 method 
+This script prints every other line from the input
