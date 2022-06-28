@@ -7,3 +7,4 @@ Shell  Variables and Expansions
 5-local_variables - This script lists local variables environmental variables and functions
 6-create_local_variable - This script creates a new local variable
 7-create_global_variable - THis script creates a new global variable 
+8-true_knowledge - This script prints the results of the sum of the trueknowldge variable and 128
