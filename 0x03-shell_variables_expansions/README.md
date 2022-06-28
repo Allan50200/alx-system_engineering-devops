@@ -9,3 +9,4 @@ Shell  Variables and Expansions
 7-create_global_variable - THis script creates a new global variable 
 8-true_knowledge - This script prints the results of the sum of the trueknowldge variable and 128
 9-divide_and_rule - This script prints the results of POWER divided by DIVIDE
+10-love_exponent_breath - THis script prints the product of bret to the exponent of love
