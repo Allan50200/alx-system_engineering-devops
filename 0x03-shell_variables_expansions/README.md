@@ -14,3 +14,4 @@ Shell  Variables and Expansions
 12-combinations -  This script prints a combination os letters 
 13-print_float - Prints a float with two decimal places
 100-decimal_to_hexadecimal -  This script prints decimal to hexadecimal 
+101-rot13 - Encryption and decryption using rot13 method 
