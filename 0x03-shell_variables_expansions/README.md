@@ -8,3 +8,4 @@ Shell  Variables and Expansions
 6-create_local_variable - This script creates a new local variable
 7-create_global_variable - THis script creates a new global variable 
 8-true_knowledge - This script prints the results of the sum of the trueknowldge variable and 128
+9-divide_and_rule - This script prints the results of POWER divided by DIVIDE
